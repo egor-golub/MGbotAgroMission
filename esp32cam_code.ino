@@ -5,8 +5,8 @@
 #include "time.h"
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
-const char* ssid = "Xiaomi_E217";
-const char* password = "internet217";
+const char* ssid = "";
+const char* password = "";
 const char* triggerTime = "20:10"; // время фиксации каждый день
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset = 3 * 3600; 
