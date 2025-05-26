@@ -7,8 +7,8 @@
 #include <NTPClient.h>
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
-#define BOT_TOKEN "8166904482:AAGVdbrF9qz0SJnjT87nwDmQakLHSbsNS6g"
-#define CHAT_ID "7311984337"
+#define BOT_TOKEN ""
+#define CHAT_ID ""
 #define PUMP_PIN_1 14
 #define PUMP_PIN_2 15
 #define BME280_ADDRESS 0x77
