@@ -5,8 +5,8 @@
 #include <UniversalTelegramBot.h>
 #include <WiFiUdp.h>
 #include <NTPClient.h>
-#define WIFI_SSID "Xiaomi_E217"
-#define WIFI_PASSWORD "internet217"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 #define BOT_TOKEN "8166904482:AAGVdbrF9qz0SJnjT87nwDmQakLHSbsNS6g"
 #define CHAT_ID "7311984337"
 #define PUMP_PIN_1 14
